@@ -1,0 +1,15 @@
+{# _templates/custom_table.html #}
+
+<div class="custom-table">
+  <table>
+    <tbody>
+      {%- for row in table_data %}
+      <tr>
+        {%- for cell in row %}
+        <td>{{ cell }}</td>
+        {%- endfor %}
+      </tr>
+      {%- endfor %}
+    </tbody>
+  </table>
+</div>
