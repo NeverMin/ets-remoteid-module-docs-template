@@ -6,3 +6,4 @@
 .tx
 .DS_Store
 locale/.doctrees
+/venv
