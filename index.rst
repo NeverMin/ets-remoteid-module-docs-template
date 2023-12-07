@@ -13,19 +13,19 @@ Table of Contents
    :maxdepth: 2
    :caption: Contents:
 
-   /revision-history
-   /warnings-disclaimers
-   /limited-warranty
-
-.. toctree::
-   :maxdepth: 1
-   :caption: About ETS
-
-   /about/ets
 
 .. toctree::
    :maxdepth: 2
-   :caption: Compliance and System Information
+   :caption: Introduction
+
+   /introduction/about-ets
+   /introduction/revision-history
+   /introduction/warnings-disclaimers
+   /introduction/limited-warranty
+
+.. toctree::
+   :maxdepth: 2
+   :caption: System Overview
 
    /compliance-system-information/compliance-and-system-information
 
